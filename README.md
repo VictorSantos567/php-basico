@@ -14,8 +14,9 @@ No documento index.php contemplo os seguintes assuntos:
 </ul>
 
 
-## Deploy da aplicação
+## Deploy da aplicação 
 
+Deploy em um ambiente de S.O Windows 10:
 <ol>
   <li>Instalação do ambiente de desenvolvimento XAMPP: https://www.apachefriends.org/pt_br/index.html </li>
   <li>Start o apache no control panel do XAMPP</li>
