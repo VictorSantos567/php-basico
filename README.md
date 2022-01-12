@@ -2,7 +2,7 @@
 
 ### Olá mundo
 
-Neste repositorio pretendo demostrar um pouco dos estudos inicias na linguagem PHP.<br>
+Neste repositorio pretendo demostrar um pouco dos meus estudos inicias na linguagem PHP.<br>
 No documento index.php contemplo os seguintes assuntos:
 
 <ul>
